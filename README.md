@@ -99,3 +99,6 @@ Raphaello Caffettani - RM: 572334
 
 Link do circuito:
 https://wokwi.com/projects/466300753761911809
+
+Link do video explicativo:
+https://youtu.be/ulNMhVclIcE
