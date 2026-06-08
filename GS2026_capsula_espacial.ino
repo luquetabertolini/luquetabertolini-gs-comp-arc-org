@@ -18,13 +18,6 @@
  *    - DHT sensor library (Adafruit)
  *    - Adafruit Unified Sensor
  *    - LiquidCrystal I2C (Frank de Brabander)
- *
- *  COMO USAR NO WOKWI:
- *    1. Acesse wokwi.com → New Project → Arduino Uno
- *    2. Cole este código no editor
- *    3. Adicione os componentes conforme esquema do relatório
- *    4. Clique em "Start Simulation"
- * =====================================================
  */
 
 #include <DHT.h>
